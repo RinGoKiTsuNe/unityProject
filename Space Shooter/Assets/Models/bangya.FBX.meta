@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: e35178658509f214a8cad0fca8de351c
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bip001 Head
+    100004: Bip001 HeadNub
+    100006: Bip001 Neck
+    100008: Bip001 Pelvis
+    100010: Bip002 L Thigh
+    100012: Bip002 Neck
+    100014: Bip002 Spine
+    100016: Body
+    100018: Bone021
+    100020: Bone022
+    100022: Bone023
+    100024: Bone024
+    100026: Bone025
+    100028: Bone026
+    100030: Bone027
+    100032: Bone028
+    100034: Bone029
+    100036: Bone030
+    100038: Bone044
+    100040: Face
+    100042: Hair
+    100044: MC_Bone003
+    100046: MC_Tail
+    400000: //RootNode
+    400002: Bip001 Head
+    400004: Bip001 HeadNub
+    400006: Bip001 Neck
+    400008: Bip001 Pelvis
+    400010: Bip002 L Thigh
+    400012: Bip002 Neck
+    400014: Bip002 Spine
+    400016: Body
+    400018: Bone021
+    400020: Bone022
+    400022: Bone023
+    400024: Bone024
+    400026: Bone025
+    400028: Bone026
+    400030: Bone027
+    400032: Bone028
+    400034: Bone029
+    400036: Bone030
+    400038: Bone044
+    400040: Face
+    400042: Hair
+    400044: MC_Bone003
+    400046: MC_Tail
+    2100000: Monster_BOSS_040_Material_Body_Cloth
+    2100002: Monster_BOSS_040_Material_Body_Skin
+    2100004: Monster_BOSS_040_Material_Hair
+    2100006: Monster_BOSS_040_Material_Face
+    2100008: Monster_BOSS_040_Material_MC
+    4300000: Body
+    4300002: Hair
+    4300004: Face
+    4300006: MC_Tail
+    9500000: //RootNode
+    13700000: Body
+    13700002: Face
+    13700004: Hair
+    13700006: MC_Tail
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_BOSS_040_Material_Body_Cloth
+    second: {fileID: 2100000, guid: dd4ac8a1cd4f9b744be7fa4bc2b87693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_BOSS_040_Material_Body_Skin
+    second: {fileID: 2100000, guid: 264d4c4f111ace24993b1738731aa277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_BOSS_040_Material_Face
+    second: {fileID: 2100000, guid: 264d4c4f111ace24993b1738731aa277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_BOSS_040_Material_Hair
+    second: {fileID: 2100000, guid: e1144e6224aba474fb64ac2aa9dc04a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster_BOSS_040_Material_MC
+    second: {fileID: 2100000, guid: c728818bca12f91438f2512ab7b78db2, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
